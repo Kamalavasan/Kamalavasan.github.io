@@ -1,1 +1,3 @@
-Vasan
+# BIO 
+I have recently obtained my PhD in computer science from the University of Warwick. My PhD research was focused on breaking the FPGA implementation barriers such as longer development time and expertise in HW system designing, by developing a high-level workflow to target FPGAs. This work has been published in the Highly ranked conference(ICS, IPDPS). Prior to joining Warwick, I have done several Verilog-based FPGA projects and, those works have also been published in internationally recognised conferences. Apart from experience with FPGAs, I have worked with GPUs(CUDA), multi-core CPUs(OpenMP, MPI) and Custom DPUs to accelerate applications. Strong analytical skills, good debugging skills and theoretical knowledge of digital systems help me to identify bottlenecks and tradeoffs to improve the performance of applications on any platform.
+
